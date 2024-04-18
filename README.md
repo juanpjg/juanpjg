@@ -1,4 +1,4 @@
-<h1>Oi, eu sou Juan Pablo 👋</h1>
+<h1>Ola, eu me chamo Juan Pablo 👋</h1>
 <p>Sejam todos bem-vindos ao meu perfil GitHub!</p>
 
 <!---
